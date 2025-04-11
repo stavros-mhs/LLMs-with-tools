@@ -66,7 +66,7 @@ all the commands that follow need to be run inside the root of the project for i
 
 2. Run `python3 -m goal-node ./path/to/input.pdf`
 
-this will get summarize the task contained in the pdf you inputed and write it in summary.txt.
+this will summarize the task contained in the pdf you inputed and write it in summary.txt.
 
 3. copy the contents of summary.txt and run `python3 -m implementation-node.main "...what you copied from summary.txt..."` 
 
